@@ -18,7 +18,10 @@ Este proyecto reúne los conceptos esenciales de programación en Python, aborda
 
 🚀 **Principales Desafíos y Soluciones**
 
-🔹 Variables y Tipos de Datos: Se exploraron diferentes tipos de datos y su manipulación para cálculos eficientes.🔹 Estructuras de Control: Uso de condicionales y bucles para mejorar la eficiencia del código.🔹 Funciones y Modularización: Implementación de funciones para estructurar mejor el código y facilitar su reutilización.🔹 Manejo de Datos con Pandas: Transformaciones y limpieza de DataFrames para análisis de datos.
+🔹 Variables y Tipos de Datos: Se exploraron diferentes tipos de datos y su manipulación para cálculos eficientes.
+🔹 Estructuras de Control: Uso de condicionales y bucles para mejorar la eficiencia del código.
+🔹 Funciones y Modularización: Implementación de funciones para estructurar mejor el código y facilitar su reutilización.
+🔹 Manejo de Datos con Pandas: Transformaciones y limpieza de DataFrames para análisis de datos.
 
 🛠 **Instrucciones para Ejecutar el Proyecto**
 
