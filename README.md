@@ -1,4 +1,4 @@
-🐍 **Python Básico - Sprints 2 y 3**
+# 🐍 **Python Básico - Sprints 2 y 3**
 
 📌 **Fundamentos de Programación con Python**
 
