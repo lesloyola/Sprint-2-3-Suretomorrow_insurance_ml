@@ -1,29 +1,29 @@
 # 🐍 **Python Básico - Sprints 2 y 3**
 
-📌 **Fundamentos de Programación con Python**
+## 📌 **Fundamentos de Programación con Python**
 
 Este proyecto reúne los conceptos esenciales de programación en Python, abordando estructuras de datos, control de flujo, funciones y manipulación de datos con Pandas. Se enfoca en proporcionar una base sólida para el análisis de datos y machine learning.
 
-🎯 **Objetivo del Proyecto**
+## 🎯 **Objetivo del Proyecto**
 
 👉 Desarrollar una comprensión sólida de los conceptos básicos de Python.
 👉 Aplicar estructuras de control y bucles para automatizar tareas repetitivas.
 👉 Manipular y analizar datos con Pandas y NumPy.
 
-⚙️ **Tecnologías Utilizadas**
+## ⚙️ **Tecnologías Utilizadas**
 
 ✔ Python 🐍
 ✔ Pandas para manipulación de datos
 ✔ NumPy para cálculos matemáticos
 
-🚀 **Principales Desafíos y Soluciones**
+## 🚀 **Principales Desafíos y Soluciones**
 
 🔹 Variables y Tipos de Datos: Se exploraron diferentes tipos de datos y su manipulación para cálculos eficientes.
 🔹 Estructuras de Control: Uso de condicionales y bucles para mejorar la eficiencia del código.
 🔹 Funciones y Modularización: Implementación de funciones para estructurar mejor el código y facilitar su reutilización.
 🔹 Manejo de Datos con Pandas: Transformaciones y limpieza de DataFrames para análisis de datos.
 
-🛠 **Instrucciones para Ejecutar el Proyecto**
+## 🛠 **Instrucciones para Ejecutar el Proyecto**
 
 1️⃣ Clonar el repositorio y navegar al directorio del proyecto:
 
@@ -42,7 +42,7 @@ jupyter notebook
 
 
 
-📈 **Resultados y Conclusión**
+## 📈 **Resultados y Conclusión**
 
 📌 Este proyecto permite adquirir los conocimientos fundamentales de Python para su aplicación en análisis de datos y ciencia de datos. Se han abordado estructuras clave que facilitan la transición a proyectos más avanzados de Machine Learning y Data Science.
 
